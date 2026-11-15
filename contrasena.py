@@ -2,7 +2,8 @@ from utilidades import comprobar_numero
 
 
 def comprobar_longitud(contrasena):
-    return len(contrasena) >= 10
+    return len(contrasena) >= 12
+
 
 
 def comprobar_mayuscula(contrasena):
